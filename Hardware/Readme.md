@@ -1,1 +1,1 @@
-Hardware aspects, Specifications, Calculations, Schematic and PCB design of MOtherboard with 2 seperate revisions.
+Hardware aspects, Specifications, Calculations, Schematic and PCB design of Motherboard with 2 seperate revisions.
